@@ -16,7 +16,7 @@
 
 
 // Space complexity:
-// O(k)
+// O(1)
 
 
 // Code
